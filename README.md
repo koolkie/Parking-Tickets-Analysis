@@ -31,11 +31,11 @@
     - Add the geoencoding to the dataset **(Manvir)**
     - Add the quarter of the year to the dataset **(Kevin)**
   - Data Analysis
-    - General analysis of the data to do exploratory data analysis
-    - Analysis of the data to find the most ticketed areas in the city
-    - Analysis of the data to find the most ticketed times in the city
-    - Analysis of temporal trends in the data
-    - Analysis of geographic trends in the data
+    - General analysis of the data to do exploratory data analysis **(both)**
+    - Analysis of the data to find the most ticketed areas in the city **(both)**
+    - Analysis of the data to find the most ticketed times in the city **(both)**
+    - Analysis of temporal trends in the data **(both)**
+    - Analysis of geographic trends in the data **(both)**
     
   - Data Visualization
     - Based on previous analysis, create visualizations to represent the data
